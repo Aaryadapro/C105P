@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(aqua, yellow);
+    color:black;
+}
+.heading{
+    width:30%;
+    font-size: 30px;
+    font-weight:bold;
+}
+.name_of_objects, #result_object_name, #result_object_accruacy{
+    color:red;
+    font-size:32px;
+    
+}
+#camera{
+    border: 5px solid black;
+    width:450px;
+    height:200px;
+}
+p{
+    font-size:30px;
+}
